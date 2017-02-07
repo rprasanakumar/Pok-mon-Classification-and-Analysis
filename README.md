@@ -1,2 +1,2 @@
-# Pok-mon-Classification-and-Analysis
+# Pokémon-Classification-and-Analysis
 Computer Vision Final project
