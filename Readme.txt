@@ -1,7 +1,3 @@
-# Pokémon-Classification-and-Analysis
-Computer Vision Final project
-
-
 1. The model is given as .mat file
 2. the interface between test and pokemon_statsis not changed
 3. but the pokemon_stats uses the interfaces CPdetect HPdetect STAdetect centerofsemicircle and Leveldetect.
